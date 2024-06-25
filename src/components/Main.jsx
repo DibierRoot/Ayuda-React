@@ -2,10 +2,10 @@ import Whatsapp from "/src/assets/images/IconWhatsapp.png"
 
 const Main = () => {
     return (
-        <main className="pt-8 bg-black text-white min-h-screen">
+        <main className="pt-48 bg-black text-white min-h-screen">
             <div className="p-8">
                 <h1 className="text-xl">CONTACTAR CON NOSOTROS</h1>
-                <hr className="bg-yellow-300 border-none h-0.5 mt-2" />
+                <hr className="raya" />
             </div>
             <div className="pl-8">
                 <p className="font-semibold">LLAMANOS</p>
